@@ -4,7 +4,7 @@ version     = "0.1.0"
 author      = "milisarge"
 description = "RPC implementation for Nim based on msgpack4nim"
 license     = "MIT"
-srcDir      = ""
+srcDir      = "src"
 
 [Deps]
 Requires:   """
