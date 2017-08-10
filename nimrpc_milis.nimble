@@ -1,5 +1,5 @@
 [Package]
-name        = "nimrpc"
+name        = "nimrpc_milis"
 version     = "0.1.0"
 author      = "milisarge"
 description = "RPC implementation for Nim based on msgpack4nim"
